@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+#header{
+    background-image: url(./bg_2.jpg);
+    height: 100vh;
+    background-size: cover;
+}
+.navbar-brand1{
+    color: #85ac32;
+}
+.h1{
+    font-family: "Playwrite AU SA", serif;
+}
+.pragraph{
+    letter-spacing: 5px;
+    font-size: small;
+}
+.btn1{
+    background-color: #81ae44;
+}
+.badge{
+    background-color: #81ae44;
+    padding: 15px 40px;
+    position: absolute;
+    left: 35px;
+}
+
+.h-3{
+    color:  #85ac32;
+    font-family: "Playwrite AU SA", serif;
+}
